@@ -301,7 +301,7 @@ This project uses:
 - **Microsoft** for bitsandbytes quantization
 - **Community** for LoRA and PEFT implementations
 
-##👨‍🔬 Author
+## 👨‍🔬 Author
 
 Hamdi Mohamed
 Machine Learning Engineer
