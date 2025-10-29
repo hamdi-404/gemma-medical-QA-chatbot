@@ -278,7 +278,7 @@ This project uses:
 For questions or issues:
 - Open an issue on GitHub
 - Email: hamdi404.cs@gmail.com
-
+- LinkedIn: https://www.linkedin.com/in/hamdi-mohammed-a0314b213/
 
 ## 🔗 Useful Links
 
