@@ -303,8 +303,8 @@ This project uses:
 
 ## 👨‍🔬 Author
 
--Hamdi Mohamed
--Machine Learning Engineer
+- Hamdi Mohamed
+- Machine Learning Engineer
 
 ## 📧 Contact
 
