@@ -28,7 +28,7 @@ This project fine-tunes Google's Gemma-2B-IT model on medical question-answering
 ## 🤖 Model Details
 
 ### Base Model
-- **Model:** `google/gemma-2-2b-it`
+- **Model:** `google/gemma-3-1b-it`
 - **Parameters:** 1B parameters
 - **Architecture:** Transformer-based causal language model
 - **Quantization:** 4-bit (nf4) using bitsandbytes
