@@ -204,40 +204,7 @@ Features:
 - Response history
 - Medical disclaimer
 
-### Using as API
 
-You can wrap the model in FastAPI or Flask:
-
-```python
-from fastapi import FastAPI
-from pydantic import BaseModel
-
-app = FastAPI()
-
-class Question(BaseModel):
-    text: str
-
-@app.post("/answer")
-def get_answer(question: Question):
-    # Load model (do this once at startup)
-    answer = generate_answer(question.text)
-    return {"answer": answer}
-```
-
-### Cloud Deployment Options
-
-1. **Hugging Face Spaces**
-   - Upload model to Hugging Face
-   - Create a Space with Streamlit
-   - Free hosting available
-
-2. **AWS/GCP/Azure**
-   - Deploy on cloud GPU instances
-   - Use container services (ECS, Cloud Run, etc.)
-
-3. **Replicate**
-   - Easy model deployment
-   - Pay-per-use pricing
 
 ## ⚠️ Important Disclaimers
 
